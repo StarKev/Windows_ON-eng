@@ -22,9 +22,11 @@ When you run Windows for the first time, it will try to protect you by displayin
 When this happens, don't worry, you haven't been hacked or anything, it's perfectly normal. And if you doubt it, the source code is in the zip file, the .exe file and the script have been scanned by Total virus, so don't worry.
 The reason for this is that the publisher is "unknown". 
 To execute, click on "additional information".
+
 <img src="sources/message-attention.png">
 
 Then press "Run anyway".
+
 <img src="sources/message-attention-confirmation.png">
 
 Then all you have to do is press yes on the window asking whether you agree to the application making changes to your computer.
